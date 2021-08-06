@@ -1,2 +1,3 @@
-const game = "mario";
-console.log(game);
+// const game = "mario";
+// console.log(game);
+
